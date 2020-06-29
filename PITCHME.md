@@ -1,0 +1,31 @@
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593422656/Artesi/artesi_PETRA_01.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593422656/Artesi/artesi_PETRA_02.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593422655/Artesi/artesi_PETRA_03.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593422656/Artesi/artesi_PETRA_04.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593422654/Artesi/artesi_PETRA_05.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593422654/Artesi/artesi_PETRA_06.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593422656/Artesi/artesi_PETRA_07.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593422654/Artesi/artesi_PETRA_08.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593422653/Artesi/artesi_PETRA_09.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593422653/Artesi/artesi_PETRA_10.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593422653/Artesi/artesi_PETRA_11.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593422653/Artesi/artesi_PETRA_12.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593422652/Artesi/artesi_PETRA_13.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593422653/Artesi/artesi_PETRA_14.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593422654/Artesi/artesi_PETRA_15.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593422652/Artesi/artesi_PETRA_16.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593422652/Artesi/artesi_PETRA_17.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593422656/Artesi/artesi_PETRA_18.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593422652/Artesi/artesi_PETRA_19.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593422652/Artesi/artesi_PETRA_20.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593422651/Artesi/artesi_PETRA_21.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593422651/Artesi/artesi_PETRA_22.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593422695/Artesi/artesi_PETRA_23.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593422651/Artesi/artesi_PETRA_24.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593422651/Artesi/artesi_PETRA_25.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593422651/Artesi/artesi_PETRA_26.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593422651/Artesi/artesi_PETRA_27.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593422651/Artesi/artesi_PETRA_28.jpg&size=auto 100%
+
+
+##  &color=#ffffff
