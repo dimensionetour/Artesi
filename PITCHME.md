@@ -1,0 +1,12 @@
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593424828/Artesi/ardeco_WIND_01.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593424828/Artesi/ardeco_WIND_02.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593424829/Artesi/ardeco_WIND_03.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593424828/Artesi/ardeco_WIND_04.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593424830/Artesi/ardeco_WIND_05.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593424829/Artesi/ardeco_WIND_06.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593424829/Artesi/ardeco_WIND_07.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593424829/Artesi/ardeco_WIND_08.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593424830/Artesi/ardeco_WIND_09.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593424830/Artesi/ardeco_WIND_10.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593424830/Artesi/ardeco_WIND_11.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1593424830/Artesi/ardeco_WIND_12.jpg&size=auto 100%
